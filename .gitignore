@@ -1,0 +1,6 @@
+# Ignore IDE specific temporary files
+.idea
+.vscode
+
+# Ignore Vendor files
+vendor

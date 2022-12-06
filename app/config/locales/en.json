@@ -1,0 +1,6 @@
+{
+  "something_went_wrong": "Something went wrong",
+  "internal_server_error": "Internal server error",
+  "invalid_request_params": "Invalid Request Params",
+  "invalid_companyId_or_sectorId": "CompanyId or SectorId is not registered with us"
+}
